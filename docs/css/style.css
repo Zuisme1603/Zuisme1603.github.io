@@ -1,0 +1,13 @@
+html {
+    background-color: yellow;
+}
+
+body{
+    width: 850px;
+    background-color: black;
+    border: 2px double black;
+}
+
+header {
+    height: 120px;
+}
